@@ -5,5 +5,7 @@ second : pasta
 
 chiken fry
 
+beans
+pizza
 
 thank u
